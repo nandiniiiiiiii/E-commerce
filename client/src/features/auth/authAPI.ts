@@ -70,7 +70,6 @@ export function resetPasswordRequest(email) {
         } catch (error) {
             reject(error);
         }
-
     });
 }
 

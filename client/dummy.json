@@ -1801,12 +1801,14 @@
     {
       "id": "d249",
       "email": "nandininegi290604@gmail.com",
-      "password": "Nandini3275"
+      "password": "Nandini3275",
+      "role":"admin"
     },
     {
       "id": "e6da",
       "email": "nandininegi@gmail.com",
-      "password": "Hello1234"
+      "password": "Hello1234",
+      "role":"user"
     }
   ],
   "cart": [
@@ -1874,3 +1876,4 @@
     }
   ]
 }
+  
